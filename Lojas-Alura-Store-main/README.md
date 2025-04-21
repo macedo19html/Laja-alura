@@ -1,4 +1,4 @@
-# 📊 Desempenho das Lojas - Alura Store
+# 📊 Lojas - Alura Store
 
 Este repositório apresenta uma análise exploratória de dados sobre o desempenho de quatro lojas da Alura Store. O objetivo principal é fornecer uma base analítica sólida para apoiar a decisão de **qual loja deve ser vendida** para ajudar o senhor João, com base em métricas quantitativas e qualitativas extraídas dos dados.
 
